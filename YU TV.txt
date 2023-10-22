@@ -1,0 +1,28 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="nasional",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+ https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="nasional",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://cdn12jtedge.indihometv.com/joss/130/rtv/chunklist_w1665709411_b644100_sleng.m3u8?enc=wTg6dn4FLl5xwZXzVjXsFA&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjNzgwYjE5OC05ODUzLWYyYzU4LTU0NTk4OWVhNTcxNiIsImVtYWlsIjoic2FsaXphaDM4QGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjcxOTQxNyIsImZ1bGxuYW1lIjoiYWhtYWQiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4TVRBdU1UTTNMamN6TGpFME5pMDJORE5GTURFME5ETTRRek5DIiwiaWQiOjExMjkxOTMsImV4cCI6MTY5Nzk1OTYzMCwiaWF0IjoxNjk3OTU2MDMwLCJpc3MiOiJVc2VlVFZHTyJ9.xrndTvoeUjK8hgYHL2mpg4lEsZsihQgtpFFzRU-sch7WqQYdQ5yAN4pNndkaQk17qVeR3CGDv4Ax1SjQqGQZXkfvIqdv9wUN3n_ivYsLeayQa2Auzxhiz6xiMaXRP4T4fWZmVfg_hT-3VJn0SdyuSr5p0ByNvyGtVD5wSHmk5kc_EvF4OCWgPk-peS5at4_84UxDv--vx8m2QLzVsxiLe8cumAnAJ3miTkNfLKW8BvUPoupc9uUBJZjUAvI2JckqUGhYDbh3-87EpRoyH7gRJ3n1bY6_H_EdUIAw_7_WSwSDnuoWSsvguTZU0fvFTdvvUb5ipfeqemPi3faQzYFoM7tmDNeLv4z1K7EFC-ijMlouDXvjekXasrj8qvrHK6gVCxgmVm-WPE71r_ziwTXuUNVd92nxUOaF9_Vzt5VidcY5_8BiMTc-wGwzrdUJ0_N5VYr0flZ9KoEG3Q6cjg8LgMSOVLoq20bn_rTk1O7skrKgg01WslxZEfPN23_0zClGXOypPMGy_KmBLeLhq20mcdU3IjdUAUn7CV_smh7YukMs-L2vuT67YNNuRo436hDvXMInDVf4ycTQV28xBlT0xq3RSrx_oag4Hq7lB_PrPBKfPdJMBQ7vqnflAbnm3yt0YiOk_P241Ca_xX0hQb01SROKWhag-RRQ61A9MGpQlYE&exp=1697965058
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="nasional",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="nasional",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+
+
